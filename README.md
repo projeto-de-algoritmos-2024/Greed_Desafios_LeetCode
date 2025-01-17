@@ -16,7 +16,7 @@ Este repositório contém a solução de desafios de Greed do juiz online LeetCo
 ### Desafios Solucionados
 | Código | Desafio                                                                                                      | Dificuldade |
 |--------|--------------------------------------------------------------------------------------------------------------|-------------|
-| 1402    | [name](link) | Difícil     |
+| 1402    | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/) | Difícil     |
 | yyy    | [name](link) | Difícil     |
 | zzz    | [name](link) | Difícil     |
 | aaa    | [name](link) | Difícil     |
