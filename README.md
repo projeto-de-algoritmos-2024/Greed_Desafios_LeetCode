@@ -70,4 +70,4 @@ Para complementar a explicação das soluções e facilitar o entendimento dos c
 
 ### 📹 Link para o Vídeo
 [Entrega de Greed (1402 e aaaa)](link) <br>
-[Entrega de Greed (630 e 1584)](link)
+[Entrega de Greed (630 e 1584)](https://youtu.be/0-M_G6hNXE4)
