@@ -4,14 +4,14 @@ using namespace std;
 class Solution {
 public:
     int scheduleCourse(vector<vector<int>>& courses) {
-        // 1. Ordenar cursos por lastDay
+        // Ordenar cursos por lastDay
         sort(courses.begin(), courses.end(), 
             [](const vector<int>& a, const vector<int>& b){
                 return a[1] < b[1];
             }
         );
 
-        // 2. Max-heap para guardar as durações dos cursos selecionados
+        // Max-heap para guardar as durações dos cursos selecionados
         priority_queue<int> maxHeap;
         int total_time = 0;
 
