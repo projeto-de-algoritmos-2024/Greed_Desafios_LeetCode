@@ -9,7 +9,7 @@
 | 20/2023968  | Miguel Moreira   |
 
 ## 📝 Sobre
-Este repositório contém a solução de desafios envolvendo Algorítmos Ambiciosos no juiz online LeetCode. Foram resolvidas as questões difíceis de números **1402** e **630**, e as questões de dificuldade média de número **zzz** e **aaa**.
+Este repositório contém a solução de desafios envolvendo Algorítmos Ambiciosos no juiz online LeetCode. Foram resolvidas as questões difíceis de números **1402** e **630**, e as questões de dificuldade média de número **1584** e **aaa**.
 
 **Tecnologias Utilizadas**: C++ e Javascript
 
@@ -18,8 +18,8 @@ Este repositório contém a solução de desafios envolvendo Algorítmos Ambicio
 |--------|--------------------------------------------------------------------------------------------------------------|-------------|
 | 1402    | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/) | Difícil     |
 | 630    | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) | Difícil     |
-| zzz    | [name](link) | Difícil     |
-| aaa    | [name](link) | Difícil     |
+| 1584    | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Média     |
+| aaa    | [name](link) | Média     |
 
 ## 📸 Screenshots
 <p align="center">
@@ -39,11 +39,11 @@ Este repositório contém a solução de desafios envolvendo Algorítmos Ambicio
 </p>
 
 <p align="center">
-  <img src="img/zzz.jpeg" alt="Resultado da submissão do desafio zzz">
+  <img src="img/1584.jpeg" alt="Resultado da submissão do desafio 1584">
 </p>
 
 <p align="center">
-  Resultado da submissão da solução para o desafio zzz.
+  Resultado da submissão da solução para o desafio 1584.
 </p>
 
 <p align="center">
@@ -69,5 +69,5 @@ Para testar cada desafio:
 Para complementar a explicação das soluções e facilitar o entendimento dos conceitos aplicados em cada desafio, incluímos uma apresentação em vídeo.
 
 ### 📹 Link para o Vídeo
-[Entrega de Greed (1402 e zzz)](link) <br>
-[Entrega de Greed (630 e aaa)](link)
+[Entrega de Greed (1402 e aaaa)](link) <br>
+[Entrega de Greed (630 e 1584)](link)
