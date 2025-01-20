@@ -1,6 +1,7 @@
 # Desafios LeetCode: Greed
  
 **Conteúdo da Disciplina**: Algorítmos Ambiciosos
+**Número da Lista**: 46
 
 ## 👥 Alunos
 | Matrícula   | Aluno           |
@@ -9,7 +10,7 @@
 | 20/2023968  | Miguel Moreira   |
 
 ## 📝 Sobre
-Este repositório contém a solução de desafios envolvendo Algorítmos Ambiciosos no juiz online LeetCode. Foram resolvidas as questões difíceis de números **1402** e **630**, e as questões de dificuldade média de número **1584** e **aaa**.
+Este repositório contém a solução de desafios envolvendo Algorítmos Ambiciosos no juiz online LeetCode. Foram resolvidas as questões difíceis de números **1402** e **630**, e as questões de dificuldade média de número **1584** e **57**.
 
 **Tecnologias Utilizadas**: C++ e Javascript
 
@@ -19,7 +20,7 @@ Este repositório contém a solução de desafios envolvendo Algorítmos Ambicio
 | 1402    | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/) | Difícil     |
 | 630    | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) | Difícil     |
 | 1584    | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Média     |
-| aaa    | [name](link) | Média     |
+| 57    | [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | Média     |
 
 ## 📸 Screenshots
 <p align="center">
@@ -47,11 +48,11 @@ Este repositório contém a solução de desafios envolvendo Algorítmos Ambicio
 </p>
 
 <p align="center">
-  <img src="img/aaa.jpeg" alt="Resultado da submissão do desafio aaa">
+  <img src="img/57.jpeg" alt="Resultado da submissão do desafio 57">
 </p>
 
 <p align="center">
-  Resultado da submissão da solução para o desafio aaa.
+  Resultado da submissão da solução para o desafio 57.
 </p>
 
 
@@ -69,5 +70,5 @@ Para testar cada desafio:
 Para complementar a explicação das soluções e facilitar o entendimento dos conceitos aplicados em cada desafio, incluímos uma apresentação em vídeo.
 
 ### 📹 Link para o Vídeo
-[Entrega de Greed (1402 e aaaa)](link) <br>
+[Entrega de Greed (1402 e 57)](link) <br>
 [Entrega de Greed (630 e 1584)](https://youtu.be/0-M_G6hNXE4)
