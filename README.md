@@ -1,6 +1,7 @@
 # Desafios LeetCode: Greed
  
-**Conteúdo da Disciplina**: Algorítmos Ambiciosos
+**Conteúdo da Disciplina**: Algorítmos Ambiciosos 
+<br>
 **Número da Lista**: 46
 
 ## 👥 Alunos
