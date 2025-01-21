@@ -71,5 +71,5 @@ Para testar cada desafio:
 Para complementar a explicação das soluções e facilitar o entendimento dos conceitos aplicados em cada desafio, incluímos uma apresentação em vídeo.
 
 ### 📹 Link para o Vídeo
-[Entrega de Greed (1402 e 57)](link) <br>
+[Entrega de Greed (1402 e 57)](https://youtu.be/mf9CaSqu134) <br>
 [Entrega de Greed (630 e 1584)](https://youtu.be/0-M_G6hNXE4)
